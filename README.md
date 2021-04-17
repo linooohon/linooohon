@@ -32,4 +32,4 @@
 - Film Camera / Streetsnap
 - 90's R&B / old school hiphop / 70 80's city pop / 90 00's chinese pop / some jazz, classical
 - DeBarge / Khruangbin / Silverbus / Kirinji / Delegation..
-
+- Some movie, some coffee, and also tea.
