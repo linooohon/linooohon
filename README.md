@@ -14,11 +14,11 @@
 * [Kirinji Band Intro](https://github.com/linooohon/Kirinji_Intro_App): Album collection that I make for my favorite band "Kirinji" with Storyboard.
 * RaiseBuBu: A team demo projects, crowdfunding platform with E-commerce system, on-going.
 
-## Blog(outdated)
+## Blog(Outdated)
 
 * [Medium](https://linooohon.medium.com/)
 
-## Has Experience(Programming)
+## Has experience(Programming)
 
 ### Front-End
 - Frontend Basic
