@@ -16,3 +16,19 @@
 ## Blog(outdated)
 
 * [Medium](https://linooohon.medium.com/)
+
+## Has Experience(Programming)
+
+### Front-End
+- Frontend Basic
+- `JavaScript`
+- `Vue`
+### Back-End / Others
+- `C#`
+- `.Net MVC` / `.NET Core`
+- `SQL SERVER`
+
+### Hobbies
+- Film Camera / Streetsnap
+- Funk / 
+
