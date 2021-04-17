@@ -1,7 +1,7 @@
 ## About Me
 
 * **Name:** Phil / Pin Hung Lin
-* **Role:** Newbie in coding world, try to become an engineer
+* **Role:** Newbie in coding world, try to become an Engineer
 * **Location:** Hsinchu / Taipei, Taiwan
 
 > keep learning ! 
@@ -30,5 +30,6 @@
 
 ### Hobbies
 - Film Camera / Streetsnap
-- Funk / 
+- 90's R&B / old school hiphop / 70 80's city pop / 90 00's chinese pop / some jazz, classical
+- DeBarge / Khruangbin / Silverbus / Kirinji / Delegation..
 
