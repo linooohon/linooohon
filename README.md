@@ -1,7 +1,7 @@
 ## About Me
 
 * **Name:** Phil / Pin Hung Lin
-* **Role:** Newbie in coding world, try to become an Engineer
+* **Role:** Newbie in coding world, try to become an engineer
 * **Location:** Hsinchu / Taipei, Taiwan
 
 > keep learning ! 
