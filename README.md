@@ -4,7 +4,7 @@
 * **Role:** Newbie in coding world.
 * **Location:** Hsinchu / Taipei, Taiwan
 
-> keep learning ! 
+> Keep learning ! 
 
 ## Projects
 * [Taiwan Features Spots](https://linooohon.github.io/googlemap/14_feature_spots.html): Introduction of Taiwan feature spots with Google Map API.
