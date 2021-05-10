@@ -18,10 +18,6 @@
 * [Medium](https://linooohon.medium.com/)(Outdated)
 * [Film](https://www.instagram.com/970106__/)
 
-## Programming
-
-- `JavaScript`, `C`, `C#` 
-
 ## Hobbies
 - Film Camera / Streetsnap
 - 90's R&B / old school hiphop / 70 80's city pop / 90 00's chinese pop / some jazz, classical
