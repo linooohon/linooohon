@@ -14,7 +14,6 @@
 * [RaiseBuBu](https://mycarplanwebsite.azurewebsites.net/): A team demo projects, crowdfunding platform with E-commerce system, on-going.
 
 ## Media
-
 * [Medium](https://linooohon.medium.com/)(Outdated)
 * [Film](https://www.instagram.com/970106__/)
 
@@ -22,4 +21,4 @@
 - Film Camera / Streetsnap
 - 90's R&B / old school hiphop / 70 80's city pop / 90 00's chinese pop / some jazz, classical
 - DeBarge / Khruangbin / Silverbus / Kirinji / Delegation..
-- Some movie, some coffee, and also tea.
+- Some movie, some coffee, and also tea(むぎ茶, Oriental Beauty, Tieguanyin).
