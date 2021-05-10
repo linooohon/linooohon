@@ -18,16 +18,9 @@
 * [Medium](https://linooohon.medium.com/)(Outdated)
 * [Film](https://www.instagram.com/970106__/)
 
-## Have experience(Programming)
+## Programming
 
-### Front-End
-- Frontend Basic
-- `JavaScript`
-- `Vue`
-### Back-End / Others
-- `C#`
-- `.Net MVC` / `.NET Core`
-- `SQL SERVER`
+- `JavaScript`, `C`, `C#` 
 
 ## Hobbies
 - Film Camera / Streetsnap
