@@ -11,7 +11,7 @@
 * [Personal Light Calendar(In Progress)](https://linooohon1997.azurewebsites.net/Calendar_App/Calender.html): A light calendar that I make for myself to add small tasks(refactoring).
 * [Pokémon Collection](https://linooohon1997.azurewebsites.net/20210104_PokemonApp_Final/PokemonApp_Final.html): All Pokémons' info and ranking of status, it's my childhood.
 * [Kirinji Band Intro](https://github.com/linooohon/Kirinji_Intro_App): An Album collection that I make for my favorite band "Kirinji" with Storyboard.
-* [RaiseBuBu](https://mycarplanwebsite.azurewebsites.net/): A team demo projects, crowdfunding platform with E-commerce system, on-going.
+* [RaiseBuBu](https://mycarplanwebsite.azurewebsites.net/): A Team demo projects, crowdfunding platform with E-commerce system. (Azure Free Tier(F1))
 
 ## Media
 * [Medium](https://linooohon.medium.com/)(Outdated)
