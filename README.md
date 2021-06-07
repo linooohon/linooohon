@@ -8,10 +8,6 @@
 * [Kirinji Band Intro](https://github.com/linooohon/Kirinji_Intro_App): An Album collection that I make for my favorite band "Kirinji" with Storyboard.
 * [RaiseBuBu](https://mycarplanwebsite.azurewebsites.net/): A Team demo projects, crowdfunding platform with E-commerce system. (Azure Free Tier(F1))
 
-#### Media
-* [Medium](https://linooohon.medium.com/)(Outdated)
-* [Film](https://www.instagram.com/970106__/)
-
 #### Hobbies
 - Film Camera / Streetsnap
 - 90's R&B / old school hiphop / 70 80's city pop / 90 00's chinese pop / some jazz, classical
