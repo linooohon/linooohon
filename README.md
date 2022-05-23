@@ -1,4 +1,3 @@
-##### Newbie in coding world.<br>
 > Keep learning ! 
 
 <!--
