@@ -12,5 +12,5 @@
 #### Hobbies
 - Film Camera / Streetsnap
 - 90's R&B / old school hiphop / shoegaze / dream pop / thai rock / 90 00's mandarin pop / some jazz, classical
-- DeBarge / Khruangbin / Silverbus / Kirinji / Delegation / Toco / TLC..
-- Some movies, some coffee, sometimes go for the tea(むぎ茶, Oriental Beauty, Tieguanyin).
+- Some movies, some coffee, sometimes go for the tea(むぎ茶, Oriental Beauty, Tieguanyin)
+<!-- - DeBarge / Khruangbin / Silverbus / Kirinji / Delegation / Toco / TLC.. --> 
